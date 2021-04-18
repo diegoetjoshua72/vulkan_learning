@@ -1,0 +1,22 @@
+RESSOURCE LIST 
+https://www.khronos.org/vulkan/educational-resources
+https://www.khronos.org/registry/vulkan/specs/1.2-extensions/html/chap1.html
+https://www.khronos.org/blog/vulkan-ray-tracing-final-specification-release
+https://www.khronos.org/assets/uploads/apis/Vulkan-Ray-Tracing-Developer-Rollout-Dec20.pdf
+vulkan cookbook
+https://www.pbr-book.org/3ed-2018/contents
+
+//some shader concepts
+https://thebookofshaders.com/?lan=en
+https://www.scratchapixel.com/
+
+//ray tracing 
+https://raytracing.github.io/books/RayTracingInOneWeekend.html
+
+https://www.fasterthan.life/blog
+
+https://github.com/DustinHLand/vkDOOM3
+https://github.com/Novum/vkQuake
+
+
+renderdoc ??
